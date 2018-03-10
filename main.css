@@ -108,7 +108,13 @@ a:hover{
   display: flex;
   justify-content: space-around;
 }
-
+.estilo-footer{
+  display: flex;
+  justify-content: space-around;
+}
+.caja-footer{
+  padding: 40px 10px;
+}
 footer{
   position: relative;
   bottom: 0;
